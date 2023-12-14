@@ -62,6 +62,6 @@ extension PromoBlockCollectionView: UICollectionViewDelegateFlowLayout, UICollec
     }
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        print("Блок с промо разделами \(indexPath.row)")
+       
     }
 }

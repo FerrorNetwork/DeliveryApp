@@ -69,6 +69,6 @@ extension StockBlockCollectionView: UICollectionViewDelegateFlowLayout, UICollec
     }
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        print("Блок с акционными товарами \(indexPath.row)")
+        
     }
 }

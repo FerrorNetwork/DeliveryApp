@@ -69,6 +69,6 @@ extension BannerPromoCollectionView: UICollectionViewDelegateFlowLayout, UIColle
     }
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        print("Блок с промо баннерами \(indexPath.row)")
+        
     }
 }

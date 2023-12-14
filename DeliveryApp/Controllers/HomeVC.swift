@@ -127,9 +127,9 @@ extension HomeViewController: UITableViewDelegate, UITableViewDataSource {
         self.view.endEditing(true)
         switch indexPath.row {
         case 0:
-            print("Блок с адресом")
+            
         case 1:
-            print("Блок с поиском")
+           
         default:
             return
         }
