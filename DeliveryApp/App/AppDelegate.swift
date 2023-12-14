@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DeliveryApp
-//
-//  Created by Данил on 14.12.2023.
-//
-
 import UIKit
 
 @main
